@@ -1,0 +1,2 @@
+load("/Users/chanminkim/Dropbox/BART_CS/Mediation_CPP/scenario6/proposed/source/covariate.RData")
+ls()

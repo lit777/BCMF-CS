@@ -1,0 +1,7 @@
+.DS_Store
+.Rhistory
+*.o
+*.so
+*.dll
+*.Rout
+.Rproj.user/
